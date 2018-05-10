@@ -1,0 +1,3 @@
+[submodule "src/uploaderSDK"]
+	path = src/uploaderSDK
+	url = git@github.com:fengyueran/UploaderSDK.git
